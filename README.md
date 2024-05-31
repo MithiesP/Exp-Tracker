@@ -1,1 +1,1 @@
-# Exp-Tracker
+# exp-tracker
